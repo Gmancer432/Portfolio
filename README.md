@@ -2,6 +2,12 @@
 A place to put projects that I think are worth showing.
 Many of these are school projects, and are no longer being worked on.
 
+Ghost Hunters
+Currently only the build is provided, though source code may be given upon request.  The build may be downloaded at:
+https://u1249865.github.io/u1249865github.io/
+This is a Unity game I helped work on. It has support for single player and online multiplayer, as well as Windows desktop and VR.
+This project ended up being a large exercise in implementing our code into a pre-existing system.  We unfortunately started the project without knowning as much about Unity as we would have liked, and as a result we weren't able to put in nearly everything we wanted to.
+
 Pokemon Card Detection
 I worked with a group to make an image recognition program that used deep learning to detect where pokemon cards were in an image.  The folder includes three project files and a report.
 
