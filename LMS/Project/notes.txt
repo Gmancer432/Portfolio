@@ -1,0 +1,5 @@
+There were a few places where we replaced 
+c.Code == subject 
+with
+d.DName == subject
+as Jimmy thought subject was the Department name, instead of the Department Code.
