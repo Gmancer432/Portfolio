@@ -1,0 +1,9 @@
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\bin\Debug\Resources.dll.config
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\bin\Debug\Resources.dll
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\bin\Debug\Resources.pdb
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\obj\Debug\Resources.dll
+C:\Users\sean\source\repos\cs3500\AidansRepo\TankWars\Resources\obj\Debug\Resources.pdb
