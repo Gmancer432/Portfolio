@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetGUI", "SpreadsheetGUI\SpreadsheetGUI.csproj", "{B135B9A9-BFDE-420B-8354-13D6999B7E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{A492EAC5-1E36-4657-A585-626367909C28}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Lab12", "Lab12\Lab12.vdproj", "{00E13E38-0CCE-4487-A15E-2A3A39963C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B135B9A9-BFDE-420B-8354-13D6999B7E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B135B9A9-BFDE-420B-8354-13D6999B7E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B135B9A9-BFDE-420B-8354-13D6999B7E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B135B9A9-BFDE-420B-8354-13D6999B7E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A492EAC5-1E36-4657-A585-626367909C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A492EAC5-1E36-4657-A585-626367909C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A492EAC5-1E36-4657-A585-626367909C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A492EAC5-1E36-4657-A585-626367909C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E13E38-0CCE-4487-A15E-2A3A39963C5C}.Debug|Any CPU.ActiveCfg = Debug
+		{00E13E38-0CCE-4487-A15E-2A3A39963C5C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9ACBA31-F062-46E5-A64E-6912E06FE3F9}
+	EndGlobalSection
+EndGlobal
